@@ -2,7 +2,7 @@
 
 My name is Aline! :octocat:
 
-I was born in São Paulo - Brazil but my family is originally from Japan 😁 
+I was born and raised in São Paulo(Brazil). My family is originally from Japan 😁 
 
 I have a degree in Civil Engineering and had been working as a business analyst until 2019.
 
