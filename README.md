@@ -11,6 +11,6 @@ I am Aline! :octocat:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Aline's github stats](https://github-readme-stats.vercel.app/api?username=alineayumi&show_icons=true&theme=radical)
+![Aline's github stats](https://github-readme-stats.vercel.app/api?username=alineayumi&show_icons=true&theme=default)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alineayumi&layout=compact)](https://github.com/alineayumi/github-readme-stats)
