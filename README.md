@@ -2,9 +2,9 @@
 
 My name is Aline! :octocat:
 
-I was born in São Paulo - Brazil but my family is originally from Japan 😁 
-I have a degree in Civil Engineering and had been working as a business analyst until 2019.
-In January of 2020 I went to the Bay Area to study Programming in 42 Silicon Valley and have felt in love with all collaborative and innovative environment 🌟
+*I was born in São Paulo - Brazil but my family is originally from Japan 😁 *
+*I have a degree in Civil Engineering and had been working as a business analyst until 2019.*
+*In January of 2020 I went to the Bay Area to study Programming in 42 Silicon Valley and have felt in love with all collaborative and innovative environment 🌟*
 
 - 🔭 I’m currently working on cub3d (42) and app development for The Swim App
 - 🌱 I’m currently learning Flutter, Raycasting
