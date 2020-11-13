@@ -6,7 +6,7 @@ I was born and raised in São Paulo(Brazil). My family is originally from Japan 
 
 I have a degree in Civil Engineering and had been working as a business analyst until 2019.
 
-In January of 2020 I went to the Bay Area to study Programming in 42 Silicon Valley and have felt in love with all collaborative and innovative environment 🌟
+In January of 2020 I went to the Bay Area to study Programming in 42 Silicon Valley and felt in love with all collaborative and innovative environment 🌟
 
 ----
 
