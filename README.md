@@ -11,7 +11,7 @@ In January of 2020 I went to the Bay Area to study Programming in 42 Silicon Val
 ----
 
 - 🔭 I’m currently working on cub3d (42) and app development for The Swim App
-- 🌱 I’m currently learning Flutter, Raycasting
+- 🌱 I’m currently learning Flutter, Raycasting, Python and Web Development
 - 👯 I’m looking to collaborate on Frontend Development
 - 💬 Ask me about C, Flutter
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aline-fukuhara-5b4831a0/)
