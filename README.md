@@ -22,4 +22,4 @@ In January of 2020 I went to the Bay Area to study Programming in 42 Silicon Val
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alineayumi&layout=compact)](https://github.com/alineayumi/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=alineayumi?color=393e46?style=flat)
+![](https://komarev.com/ghpvc/?username=alineayumi)
