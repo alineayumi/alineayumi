@@ -8,7 +8,7 @@ I have a degree in Civil Engineering and had been working as a business analyst 
 
 In January of 2020 I went to the Bay Area to study Programming in 42 Silicon Valley and felt in love with all collaborative and innovative environment 🌟 That is when I started my career transition to tech 💙
 
-I am currently working as a Mobile Developer for [unico](https://unico.io/) 🙌
+I am currently working as a Mobile Developer for [Caju](https://br.linkedin.com/company/cajubeneficios) 🙌
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alineayumi/)
 
